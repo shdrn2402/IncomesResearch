@@ -1,6 +1,6 @@
 # Incomes Research: Finding the features that distinguish high- and low-income people.
 
-##Project Objective:
+## Project Objective:
 <p>The goal is to explore the data and identify the differences between individuals earning a high annual income (more than $50 000 per year) and those earning a low income (below this amount)</p>
 
 <h4>Tools Used:</h4>
