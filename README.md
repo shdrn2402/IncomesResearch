@@ -1,6 +1,7 @@
 <h1>Finding the features that distinguish high- and low-income people.</h1>
-<img width="400" alt="Coding" src="https://repository-images.githubusercontent.com/809089864/6009af0a-b6ad-4f4b-8619-9bfb2c13b884">
+<img width="400" alt="Coding" src="https://repository-images.githubusercontent.com/809089864/eb31d182-7184-4bab-84d4-f904933613d4">
 
+https://repository-images.githubusercontent.com/809089864/eb31d182-7184-4bab-84d4-f904933613d4
 
 <h2><a name="contents">Contents:</a></h2>
 <ul>
