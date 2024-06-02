@@ -6,8 +6,7 @@
       <img width="400" alt="Coding" src="https://repository-images.githubusercontent.com/809089864/1753fd3d-c844-4236-a916-05a5d3198f28">
     </td>
     <td>
-      <h2>Project Objective</h2>
-      <p>The goal is to explore the data and identify the differences between individuals earning a high annual income (more than $50 000 per year) and those earning a low income (below this amount)</p>
+      <p>Project Objective: explore the data and identify the differences between individuals earning a high annual income (more than $50 000 per year) and those earning a low income (below this amount)</p>
     </td>
   </tr>
 </table>
