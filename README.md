@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td>
+    <td border-style: none>
       <img width="400" alt="Coding" src="https://repository-images.githubusercontent.com/809089864/1753fd3d-c844-4236-a916-05a5d3198f28">
     </td>
     <td>
