@@ -3,7 +3,7 @@
 <table style="border-collapse: collapse; border: none;">
     <tr>
         <td>
-            <img width="400" alt="Coding" src="https://repository-images.githubusercontent.com/809089864/1753fd3d-c844-4236-a916-05a5d3198f28">
+            <img width="640" alt="Coding" src="https://repository-images.githubusercontent.com/809089864/1753fd3d-c844-4236-a916-05a5d3198f28">
         </td>
         <td style="padding-left: 20px; vertical-align: top;">
             <h3>Project Objectives</h3>
