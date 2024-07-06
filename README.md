@@ -11,3 +11,5 @@
 <li>Libraries: <i>Pandas, Numpy, Matplotlib, Seaborn, Sklearn</i></li>
 <li>IDE: <i>Jupyter Notebook</i></li>
 </ul>
+
+[view project](https://nbviewer.org/github/shdrn2402/IncomesResearch/blob/main/incomes_research.ipynb)
