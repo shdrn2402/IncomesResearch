@@ -1,6 +1,6 @@
 <h2>Finding the features that distinguish high- and low-income people.</h2>
 
-<img width="480" alt="Coding" src="https://repository-images.githubusercontent.com/809089864/1753fd3d-c844-4236-a916-05a5d3198f28">
+<img width="360" alt="Coding" src="https://repository-images.githubusercontent.com/809089864/1753fd3d-c844-4236-a916-05a5d3198f28">
 
 <h3>Project Objectives</h3>
 <p>The goal is to explore the data and identify the differences between individuals earning a high annual income (more than $50 000 per year) and those earning a low income (below this amount)</p>
