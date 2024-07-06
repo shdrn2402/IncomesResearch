@@ -12,4 +12,4 @@
         <li>IDE: <i>Jupyter Notebook</i></li>
     </ul>
 
-[View Project]([https://skillbox.ru/media/](https://nbviewer.org/github/shdrn2402/IncomesResearch/blob/main/incomes_research.ipynb) "Push to view project")
+[View Project](https://nbviewer.org/github/shdrn2402/IncomesResearch/blob/main/incomes_research.ipynb) "Push to view project")
